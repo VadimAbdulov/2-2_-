@@ -10,7 +10,12 @@ namespace Абдулов_2пк2
     {
         static void Main(string[] args)
         {
+           
+
+            Console.WriteLine("как у вас дела?");
             string Anton = Console.ReadLine();
+
+            Console.WriteLine("чо ряльно?");
         }
     }
 }

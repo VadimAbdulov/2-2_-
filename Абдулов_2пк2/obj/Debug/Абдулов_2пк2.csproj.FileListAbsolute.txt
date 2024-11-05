@@ -1,0 +1,7 @@
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\bin\Debug\Абдулов_2пк2.exe.config
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\bin\Debug\Абдулов_2пк2.exe
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\bin\Debug\Абдулов_2пк2.pdb
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\obj\Debug\Абдулов_2пк2.csproj.AssemblyReference.cache
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\obj\Debug\Абдулов_2пк2.csproj.CoreCompileInputs.cache
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\obj\Debug\Абдулов_2пк2.exe
+C:\Users\fokoh\source\repos\Абдулов_2пк2\Абдулов_2пк2\obj\Debug\Абдулов_2пк2.pdb
