@@ -10,6 +10,7 @@ namespace Абдулов_2пк2
     {
         static void Main(string[] args)
         {
+            string Anton = Console.ReadLine();
         }
     }
 }
